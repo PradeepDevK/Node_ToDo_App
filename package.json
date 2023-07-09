@@ -1,0 +1,27 @@
+{
+  "name": "node_todo_app",
+  "version": "1.0.0",
+  "description": "ToDo Application With NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradeepDevK/Node_ToDo_App.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Pradeep Raj K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PradeepDevK/Node_ToDo_App/issues"
+  },
+  "homepage": "https://github.com/PradeepDevK/Node_ToDo_App#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
